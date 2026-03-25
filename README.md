@@ -13,6 +13,13 @@ A full-stack Expense Tracker application built using Spring Boot and React (Vite
 - REST API integration
 
 ---
+## 🔥 Highlights
+
+- Implemented full CRUD operations
+- Used DTO and validation for backend
+- Designed responsive UI with Tailwind CSS
+- Applied filtering logic and dynamic calculations
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,3 +37,29 @@ A full-stack Expense Tracker application built using Spring Boot and React (Vite
 ---
 
 ## 📂 Project Structure
+backend/ → Spring Boot APIs
+frontend/ → React UI
+
+
+---
+
+## ⚙️ How to Run
+
+### Backend:
+1. Open backend folder
+2. Run Spring Boot application
+3. Ensure MySQL is running
+
+### Frontend:
+1. Go to frontend folder
+2. Run:
+
+npm install
+npm run dev
+
+
+---
+
+## 👩‍💻 Author
+
+- Shifali Rathore
